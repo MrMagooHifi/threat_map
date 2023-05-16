@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS data (id INT AUTO_INCREMENT PRIMARY KEY,date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,ip Text,city Text,region Text,country Text,lat_long Text)
